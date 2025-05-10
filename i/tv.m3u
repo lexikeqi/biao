@@ -95,10 +95,10 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221226029/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil
 #EXTINF:-1,tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/cypd.png" group-title="🌋吉视频道",长影频道
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
-#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视-4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/bj4kcq.png" group-title="🏳️‍🌈卫视频道",北京卫视-4K超高清
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Beijing.png" group-title="🏳️‍🌈卫视频道",北京卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视-4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/bj4kcq.png" group-title="🏳️‍🌈卫视频道",北京卫视-4K超高清
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京卫视-纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jskj.png" group-title="🏳️‍🌈卫视频道",北京卫视-纪实科教
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="北京卫视-卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/kakushaoer.png" group-title="🏳️‍🌈卫视频道",北京卫视-卡酷少儿
