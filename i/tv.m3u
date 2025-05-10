@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTM3U
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV-4K" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/CCTV4K.png" group-title="🇨🇳央视频道",CCTV-4K
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/CCTV1.png" group-title="🇨🇳央视频道",CCTV-1 综合
@@ -97,12 +97,6 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221225846/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Beijing.png" group-title="🏳️‍🌈卫视频道",北京卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
-#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视-4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/bj4kcq.png" group-title="🏳️‍🌈卫视频道",北京卫视-4K超高清
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
-#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京卫视-纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jskj.png" group-title="🏳️‍🌈卫视频道",北京卫视-纪实科教
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="北京卫视-卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/kakushaoer.png" group-title="🏳️‍🌈卫视频道",北京卫视-卡酷少儿
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Tianjin.png" group-title="🏳️‍🌈卫视频道",天津卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Yanbian.png" group-title="🏳️‍🌈卫视频道",延边卫视
@@ -121,22 +115,12 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221225786/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225788/10000100000000060000000014995757_0.smil
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Hunan.png" group-title="🏳️‍🌈卫视频道",湖南卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南卫视-金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jykt.png" group-title="🏳️‍🌈卫视频道",湖南卫视-金鹰卡通
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="湖南卫视-金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jyjs.png" group-title="🏳️‍🌈卫视频道",湖南卫视-金鹰纪实
-rtsp://222.161.239.170:554/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="湖南卫视-快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/klcd.png" group-title="🏳️‍🌈卫视频道",湖南卫视-快乐垂钓
-rtsp://139.215.98.88/PLTV/88888888/224/3221226215/10000100000000060000000015948526_0.smil
-#EXTINF:-1,tvg-id="茶" tvg-name="湖南卫视-茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/chapd.png" group-title="🏳️‍🌈卫视频道",湖南卫视-茶频道
-rtsp://139.215.98.88/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Hubei.png" group-title="🏳️‍🌈卫视频道",湖北卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225823/10000100000000060000000014274985_0.smil
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Shenzhen.png" group-title="🏳️‍🌈卫视频道",深圳卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225819/10000100000000060000000014274983_0.smil
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Guangdong.png" group-title="🏳️‍🌈卫视频道",广东卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil
-#EXTINF:-1,tvg-id="广东嘉佳卡通" tvg-name="广东卫视-嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jjkt.png" group-title="🏳️‍🌈卫视频道",广东卫视-嘉佳卡通
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Guangxi.png" group-title="🏳️‍🌈卫视频道",广西卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226041/10000100000000060000000015242277_0.smil
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Shandong.png" group-title="🏳️‍🌈卫视频道",山东卫视
@@ -155,12 +139,6 @@ rtsp://222.161.239.170:554/PLTV/88888888/224/3221226061/100001000000000600000000
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221226067/10000100000000060000000015417301_0.smil
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Henan.png" group-title="🏳️‍🌈卫视频道",河南卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226065/10000100000000060000000015417303_0.smil
-#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南卫视-梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/lypd.png" group-title="🏳️‍🌈卫视频道",河南卫视-梨园频道
-rtsp://139.215.98.88/PLTV/88888888/224/3221225498/10000100000000060000000000029510_0.smil
-#EXTINF:-1,tvg-id="武术世界" tvg-name="河南卫视-武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/wssj.png" group-title="🏳️‍🌈卫视频道",河南卫视-武术世界
-rtsp://139.215.98.88/PLTV/88888888/224/3221225534/10000100000000060000000000029589_0.smil
-#EXTINF:-1,tvg-id="文物宝库" tvg-name="河南卫视-文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/wwbk.png" group-title="🏳️‍🌈卫视频道",河南卫视-文物宝库
-rtsp://139.215.98.88/PLTV/88888888/224/3221225554/10000100000000060000000000029616_0.smil
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Shanxi.png" group-title="🏳️‍🌈卫视频道",陕西卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225502/10000100000000060000000000029535_0.smil
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Jiangxi.png" group-title="🏳️‍🌈卫视频道",江西卫视
@@ -185,108 +163,156 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221225739/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225546/10000100000000060000000000029595_0.smil
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/Sansha.png" group-title="🏳️‍🌈卫视频道",三沙卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视-4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/bj4kcq.png" group-title="✈️各省频道",北京卫视-4K超高清
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京卫视-纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jskj.png" group-title="✈️各省频道",北京卫视-纪实科教
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="北京卫视-卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/kakushaoer.png" group-title="✈️各省频道",北京卫视-卡酷少儿
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京卫视-体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="✈️各省频道",北京卫视-体育休闲
+http://192.168.2.2:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京卫视-新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="✈️各省频道",北京卫视-新闻
+http://192.168.2.2:35455/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1,tvg-id="BTV-重温经典" tvg-name="北京IPTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="✈️各省频道",北京IPTV-重温经典
+http://192.168.2.2:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1,tvg-id="萌宠TV" tvg-name="北京IPTV-萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="✈️各省频道",北京IPTV-萌宠TV
+http://192.168.2.2:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1,tvg-id="淘BABY" tvg-name="北京IPTV-淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="✈️各省频道",北京IPTV-淘BABY
+http://192.168.2.2:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1,tvg-id="淘剧场" tvg-name="北京IPTV-淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="✈️各省频道",北京IPTV-淘剧场
+http://192.168.2.2:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1,tvg-id="淘电影" tvg-name="北京IPTV-淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="✈️各省频道",北京IPTV-淘电影
+http://192.168.2.2:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1,tvg-id="淘娱乐" tvg-name="北京IPTV-淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="✈️各省频道",北京IPTV-淘娱乐
+http://192.168.2.2:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南卫视-金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jykt.png" group-title="✈️各省频道",湖南卫视-金鹰卡通
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="湖南卫视-金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jyjs.png" group-title="✈️各省频道",湖南卫视-金鹰纪实
+rtsp://222.161.239.170:554/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="湖南卫视-快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/klcd.png" group-title="✈️各省频道",湖南卫视-快乐垂钓
+rtsp://139.215.98.88/PLTV/88888888/224/3221226215/10000100000000060000000015948526_0.smil
+#EXTINF:-1,tvg-id="茶" tvg-name="湖南卫视-茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/chapd.png" group-title="✈️各省频道",湖南卫视-茶频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
+#EXTINF:-1,tvg-id="广东嘉佳卡通" tvg-name="广东卫视-嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/jjkt.png" group-title="✈️各省频道",广东卫视-嘉佳卡通
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
+#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南卫视-梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/lypd.png" group-title="✈️各省频道",河南卫视-梨园频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225498/10000100000000060000000000029510_0.smil
+#EXTINF:-1,tvg-id="武术世界" tvg-name="河南卫视-武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/wssj.png" group-title="✈️各省频道",河南卫视-武术世界
+rtsp://139.215.98.88/PLTV/88888888/224/3221225534/10000100000000060000000000029589_0.smil
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="河南卫视-文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/wwbk.png" group-title="✈️各省频道",河南卫视-文物宝库
+rtsp://139.215.98.88/PLTV/88888888/224/3221225554/10000100000000060000000000029616_0.smil
 #EXTINF:-1,tvg-id="长春综合" tvg-name="长春-1 综合" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/长春综合.png" group-title="🏕地方频道",长春-1 综合
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
 #EXTINF:-1,tvg-id="长春文旅体育" tvg-name="长春-2 文旅体育" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/长春文旅体育.png" group-title="🏕地方频道",长春-2 文旅体育
 rtsp://222.161.218.146:554/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
 #EXTINF:-1,tvg-id="长春市民" tvg-name="长春-3 市民生活" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/长春市民生活.png" group-title="🏕地方频道",长春-3 市民生活
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
-#EXTINF:-1,tvg-id="双阳" tvg-name="双阳" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",双阳
+#EXTINF:-1,tvg-id="双阳" tvg-name="双阳" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",双阳
 rtsp://139.215.98.88/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil
-#EXTINF:-1,tvg-id="农安" tvg-name="农安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",农安
+#EXTINF:-1,tvg-id="农安" tvg-name="农安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",农安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil
-#EXTINF:-1,tvg-id="吉林市新闻综合" tvg-name="吉林市-1 新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",吉林市-1 新闻综合
+#EXTINF:-1,tvg-id="吉林市新闻综合" tvg-name="吉林市-1 新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",吉林市-1 新闻综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
-#EXTINF:-1,tvg-id="吉林市科教" tvg-name="吉林市-2 科教" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",吉林市-2 科教
+#EXTINF:-1,tvg-id="吉林市科教" tvg-name="吉林市-2 科教" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",吉林市-2 科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225830/10000100000000060000000015046809_0.smil
-#EXTINF:-1,tvg-id="吉林市生活" tvg-name="吉林市-3 生活" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",吉林市-3 生活
+#EXTINF:-1,tvg-id="吉林市生活" tvg-name="吉林市-3 生活" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",吉林市-3 生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225828/10000100000000060000000015046810_0.smil
-#EXTINF:-1,tvg-id="桦甸" tvg-name="桦甸" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",桦甸
+#EXTINF:-1,tvg-id="桦甸" tvg-name="桦甸" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",桦甸
 rtsp://222.161.218.244:554/PLTV/88888888/224/3221225537/10000100000000060000000000030285_0.smil
-#EXTINF:-1,tvg-id="磐石" tvg-name="磐石" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",磐石
+#EXTINF:-1,tvg-id="磐石" tvg-name="磐石" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",磐石
 rtsp://139.215.98.88/PLTV/88888888/224/3221226123/10000100000000060000000015417314_0.smil
-#EXTINF:-1,tvg-id="舒兰" tvg-name="舒兰" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",舒兰
+#EXTINF:-1,tvg-id="舒兰" tvg-name="舒兰" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",舒兰
 rtsp://139.215.98.88/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil
-#EXTINF:-1,tvg-id="蛟河" tvg-name="蛟河" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",蛟河
+#EXTINF:-1,tvg-id="蛟河" tvg-name="蛟河" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",蛟河
 rtsp://139.215.98.88/PLTV/88888888/224/3221226225/10000100000000060000000016079780_0.smil
-#EXTINF:-1,tvg-id="四平-1" tvg-name="四平-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",四平-1
+#EXTINF:-1,tvg-id="四平-1" tvg-name="四平-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",四平-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225836/10000100000000060000000015047482_0.smil
-#EXTINF:-1,tvg-id="四平-2" tvg-name="四平-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",四平-2
+#EXTINF:-1,tvg-id="四平-2" tvg-name="四平-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",四平-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225834/10000100000000060000000015047483_0.smil
-#EXTINF:-1,tvg-id="双辽" tvg-name="双辽" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",双辽
+#EXTINF:-1,tvg-id="双辽" tvg-name="双辽" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",双辽
 rtsp://139.215.98.88/PLTV/88888888/224/3221226113/10000100000000060000000015446246_0.smil
-#EXTINF:-1,tvg-id="伊通" tvg-name="伊通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",伊通
+#EXTINF:-1,tvg-id="伊通" tvg-name="伊通" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",伊通
 rtsp://139.215.98.88/PLTV/88888888/224/3221226109/10000100000000060000000015446249_0.smil
-#EXTINF:-1,tvg-id="公主岭" tvg-name="公主岭" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",公主岭
+#EXTINF:-1,tvg-id="公主岭" tvg-name="公主岭" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",公主岭
 rtsp://139.215.98.88/PLTV/88888888/224/3221226111/10000100000000060000000015446248_0.smil
-#EXTINF:-1,tvg-id="梨树" tvg-name="梨树" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",梨树
+#EXTINF:-1,tvg-id="梨树" tvg-name="梨树" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",梨树
 rtsp://139.215.98.88/PLTV/88888888/224/3221226115/10000100000000060000000015446243_0.smil
-#EXTINF:-1,tvg-id="辽源-1" tvg-name="辽源-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",辽源-1
+#EXTINF:-1,tvg-id="辽源-1" tvg-name="辽源-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",辽源-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225822/10000100000000060000000015046813_0.smil
-#EXTINF:-1,tvg-id="辽源-2" tvg-name="辽源-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",辽源-2
+#EXTINF:-1,tvg-id="辽源-2" tvg-name="辽源-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",辽源-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225820/10000100000000060000000015046814_0.smil
-#EXTINF:-1,tvg-id="东辽" tvg-name="东辽" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",东辽
+#EXTINF:-1,tvg-id="东辽" tvg-name="东辽" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",东辽
 rtsp://139.215.98.88/PLTV/88888888/224/3221226095/10000100000000060000000015446259_0.smil
-#EXTINF:-1,tvg-id="东丰" tvg-name="东丰" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",东丰
+#EXTINF:-1,tvg-id="东丰" tvg-name="东丰" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",东丰
 rtsp://139.215.98.88/PLTV/88888888/224/3221226093/10000100000000060000000015446260_0.smil
-#EXTINF:-1,tvg-id="通化-1" tvg-name="通化-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",通化-1
+#EXTINF:-1,tvg-id="通化-1" tvg-name="通化-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",通化-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225842/10000100000000060000000015063095_0.smil
-#EXTINF:-1,tvg-id="通化-2" tvg-name="通化-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",通化-2
+#EXTINF:-1,tvg-id="通化-2" tvg-name="通化-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",通化-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225840/10000100000000060000000015063096_0.smil
-#EXTINF:-1,tvg-id="通化-3" tvg-name="通化-3" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",通化-3
+#EXTINF:-1,tvg-id="通化-3" tvg-name="通化-3" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",通化-3
 rtsp://139.215.98.88/PLTV/88888888/224/3221225838/10000100000000060000000015063097_0.smil
-#EXTINF:-1,tvg-id="集安" tvg-name="集安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",集安
+#EXTINF:-1,tvg-id="集安" tvg-name="集安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",集安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226077/10000100000000060000000015417317_0.smil
-#EXTINF:-1,tvg-id="梅河口" tvg-name="梅河口" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",梅河口
+#EXTINF:-1,tvg-id="梅河口" tvg-name="梅河口" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",梅河口
 rtsp://139.215.98.88/PLTV/88888888/224/3221226105/10000100000000060000000015446252_0.smil
-#EXTINF:-1,tvg-id="柳河" tvg-name="柳河" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",柳河
+#EXTINF:-1,tvg-id="柳河" tvg-name="柳河" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",柳河
 rtsp://139.215.98.88/PLTV/88888888/224/3221226107/10000100000000060000000015446251_0.smil
-#EXTINF:-1,tvg-id="辉南" tvg-name="辉南" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",辉南
+#EXTINF:-1,tvg-id="辉南" tvg-name="辉南" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",辉南
 rtsp://139.215.98.88/PLTV/88888888/224/3221226103/10000100000000060000000015446254_0.smil
-#EXTINF:-1,tvg-id="白山-1" tvg-name="白山-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",白山-1
+#EXTINF:-1,tvg-id="白山-1" tvg-name="白山-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",白山-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225818/10000100000000060000000015046817_0.smil
-#EXTINF:-1,tvg-id="白山-2" tvg-name="白山-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",白山-2
+#EXTINF:-1,tvg-id="白山-2" tvg-name="白山-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",白山-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225816/10000100000000060000000015046818_0.smil
-#EXTINF:-1,tvg-id="抚松" tvg-name="抚松" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",抚松
+#EXTINF:-1,tvg-id="抚松" tvg-name="抚松" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",抚松
 rtsp://139.215.98.88/PLTV/88888888/224/3221226187/10000100000000060000000015585160_0.smil
-#EXTINF:-1,tvg-id="长白" tvg-name="长白" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",长白
+#EXTINF:-1,tvg-id="长白" tvg-name="长白" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",长白
 rtsp://139.215.98.88/PLTV/88888888/224/3221226075/10000100000000060000000015417319_0.smil
-#EXTINF:-1,tvg-id="临江" tvg-name="临江" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",临江
+#EXTINF:-1,tvg-id="临江" tvg-name="临江" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",临江
 rtsp://139.215.98.88/PLTV/88888888/224/3221226189/10000100000000060000000015585159_0.smil
-#EXTINF:-1,tvg-id="白城-1" tvg-name="白城-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",白城-1
+#EXTINF:-1,tvg-id="白城-1" tvg-name="白城-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",白城-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225826/10000100000000060000000015046811_0.smil
-#EXTINF:-1,tvg-id="白城-2" tvg-name="白城-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",白城-2
+#EXTINF:-1,tvg-id="白城-2" tvg-name="白城-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",白城-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225824/10000100000000060000000015046812_0.smil
-#EXTINF:-1,tvg-id="大安" tvg-name="大安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",大安
+#EXTINF:-1,tvg-id="大安" tvg-name="大安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",大安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226097/10000100000000060000000015446257_0.smil
-#EXTINF:-1,tvg-id="洮南" tvg-name="洮南" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",洮南
+#EXTINF:-1,tvg-id="洮南" tvg-name="洮南" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",洮南
 rtsp://139.215.98.88/PLTV/88888888/224/3221226191/10000100000000060000000015585158_0.smil
-#EXTINF:-1,tvg-id="镇赉" tvg-name="镇赉" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",镇赉
+#EXTINF:-1,tvg-id="镇赉" tvg-name="镇赉" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",镇赉
 rtsp://139.215.98.88/PLTV/88888888/224/3221226101/10000100000000060000000015446255_0.smil
-#EXTINF:-1,tvg-id="通榆" tvg-name="通榆" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",通榆
+#EXTINF:-1,tvg-id="通榆" tvg-name="通榆" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",通榆
 rtsp://139.215.98.88/PLTV/88888888/224/3221226099/10000100000000060000000015446256_0.smil
-#EXTINF:-1,tvg-id="松原-1" tvg-name="松原-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",松原-1
+#EXTINF:-1,tvg-id="松原-1" tvg-name="松原-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",松原-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221226009/10000100000000060000000015046837_0.smil
-#EXTINF:-1,tvg-id="松原-2" tvg-name="松原-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",松原-2
+#EXTINF:-1,tvg-id="松原-2" tvg-name="松原-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",松原-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221226087/10000100000000060000000015446264_0.smil
-#EXTINF:-1,tvg-id="乾安" tvg-name="乾安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",乾安
+#EXTINF:-1,tvg-id="乾安" tvg-name="乾安" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",乾安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226089/10000100000000060000000015446263_0.smil
-#EXTINF:-1,tvg-id="扶余" tvg-name="扶余" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",扶余
+#EXTINF:-1,tvg-id="扶余" tvg-name="扶余" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",扶余
 rtsp://139.215.98.88/PLTV/88888888/224/3221226091/10000100000000060000000015446262_0.smil
-#EXTINF:-1,tvg-id="前郭" tvg-name="前郭" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",前郭
+#EXTINF:-1,tvg-id="前郭" tvg-name="前郭" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",前郭
 rtsp://139.215.98.88/PLTV/88888888/224/3221226079/10000100000000060000000015417318_0.smil
-#EXTINF:-1,tvg-id="延边-1" tvg-name="延边-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",延边-1
+#EXTINF:-1,tvg-id="延边-1" tvg-name="延边-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",延边-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221226045/10000100000000060000000015259698_0.smil
-#EXTINF:-1,tvg-id="延边-2" tvg-name="延边-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",延边-2
+#EXTINF:-1,tvg-id="延边-2" tvg-name="延边-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",延边-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221226047/10000100000000060000000015259697_0.smil
-#EXTINF:-1,tvg-id="延吉" tvg-name="延吉" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",延吉
+#EXTINF:-1,tvg-id="延吉" tvg-name="延吉" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",延吉
 rtsp://139.215.98.88/PLTV/88888888/224/3221226117/10000100000000060000000015446242_0.smil
-#EXTINF:-1,tvg-id="图们" tvg-name="图们" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",图们
+#EXTINF:-1,tvg-id="图们" tvg-name="图们" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",图们
 rtsp://139.215.98.88/PLTV/88888888/224/3221226119/10000100000000060000000015446241_0.smil
-#EXTINF:-1,tvg-id="敦化" tvg-name="敦化" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",敦化
+#EXTINF:-1,tvg-id="敦化" tvg-name="敦化" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",敦化
 rtsp://139.215.98.88/PLTV/88888888/224/3221225773/10000100000000060000000014254021_0.smil
-#EXTINF:-1,tvg-id="汪清" tvg-name="汪清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/🏕地方频道.png" group-title="🏕地方频道",汪清
+#EXTINF:-1,tvg-id="汪清" tvg-name="汪清" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/地方频道.png" group-title="🏕地方频道",汪清
 rtsp://139.215.98.88/PLTV/88888888/224/3221226121/10000100000000060000000015446239_0.smil
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="🍉数字频道",咪咕4K-1
+http://192.168.2.2:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="🍉数字频道",咪咕4K-2
+http://192.168.2.2:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="🍉数字频道",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png" group-title="🍉数字频道",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1,tvg-id="FASHIONONE" tvg-name="FASHIONONE" tvg-logo="https://epg.v1.mk/logo/FASHIONONE.png" group-title="🍉数字频道",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV-1" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/CETV1.png" group-title="🍉数字频道",CETV-1
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
 #EXTINF:-1,tvg-id="CETV2" tvg-name="CETV-2" tvg-logo="https://gcore.jsdelivr.net/gh/lexikeqi/biao/img/CETV2.png" group-title="🍉数字频道",CETV-2
