@@ -1,4 +1,4 @@
-### TVlogo
+### logo
 > 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
 > 
 【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
@@ -21,13 +21,3 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
-### 2023-03-26 更新
-> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
-
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
-
-### 2023-03-20 更新
-> 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
-> 按照新的频道呼号核对实际台标做了名称调整
-
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png">
